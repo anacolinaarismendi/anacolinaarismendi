@@ -1,16 +1,74 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5CFF&width=550&lines=Data+Scientist;Machine+Learning+%7C+Healthcare+Analytics;Local+AI+%7C+Biomedical+RAG;Evidence-Based+Decision+Making" alt="Typing SVG" />
+</p>
 
-<!--
-**anacolinaarismendi/anacolinaarismendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ana Colina 👋
 
-Here are some ideas to get you started:
+<p align="left">
+  <strong>Data Scientist | Machine Learning & Healthcare Analytics Specialist</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  I engineer end-to-end solutions that turn complex, high-dimensional data into <strong>actionable clinical and business intelligence</strong>. My work combines statistical rigor, predictive Machine Learning, and privacy-first local AI (RAG) with interactive web applications to empower evidence-based decision-making.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:acolinaarismendi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://anacolinaarismendi.github.io/ana.arismendi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio_Web-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Stack & Tools
+
+- **Languages:** Python, SQL, JavaScript, HTML5/CSS3
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, SciPy, Statsmodels
+- **AI & Retrieval (RAG):** LangChain, FAISS, ChromaDB, Ollama (Qwen, Gemma)
+- **Data Visualization & Apps:** Streamlit, Plotly, Seaborn, Matplotlib
+- **Databases & Storage:** PostgreSQL, SQLite, Vector Databases
+- **Developer Tools & Frameworks:** Git, GitHub, Jupyter Notebooks, VS Code, Next.js, Tailwind CSS
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description & Impact | Tech Stack | Link |
+|---|---|---|---|
+| **🫀 Cardiovascular Risk Prediction** | 10-year coronary risk prediction using the longitudinal *Framingham Heart Study* cohort (4,200+ patients). Hemodynamic biomarker modeling and interactive Streamlit clinical decision tool. | `Python` `Scikit-Learn` `Streamlit` `EDA` | [View Project](https://github.com/anacolinaarismendi/Cardiovascular-Disease) |
+| **🛡️ Safe AI — Clinical Decision Support** | Real-time clinical prescription auditor (CDSS) for high-risk polypharmacy and drug-drug interactions, leveraging OpenFDA adverse event data. | `Python` `Streamlit` `Next.js` `SQLite` `OpenFDA` | [View Project](https://github.com/anacolinaarismendi/Safe-AI) |
+| **🧠 CardioResearch — Biomedical RAG** | 100% local Conversational RAG pipeline querying PubMed cardiovascular literature with FAISS vector indexing and Ollama (Qwen 3.5 & Gemma) to prevent medical hallucinations. | `Python` `LangChain` `FAISS` `Ollama` `Streamlit` | [View Project](https://github.com/anacolinaarismendi/CardioResearch) |
+| **📈 Econometric & Causal Modeling** | Rigorous statistical modeling on time series and socioeconomic indicators, addressing endogeneity and instrument validity with an interactive dashboard. | `Python` `Statsmodels` `Streamlit` `Econometrics` | [View Project](https://github.com/anacolinaarismendi/Econometrics) |
+| **🍷 Wine Quality Studio** | End-to-end Machine Learning pipeline predicting expert organoleptic ratings from physicochemical features, featuring a real-time virtual sommelier simulator. | `Scikit-Learn` `Pandas` `Streamlit` `Plotly` | [View Project](https://github.com/anacolinaarismendi/Wine-Quality) |
+| **🎵 Spotify Audio DNA & Genre Classifier** | Multiclass music classification (86.2% accuracy) with acoustic feature extraction, Plotly polar radar charts, an embedded player, and a virtual DJ lab. | `Python` `Scikit-Learn` `Streamlit` `Plotly` | [View Project](https://github.com/anacolinaarismendi/spotify) |
+
+---
+
+## 🔬 Working Methodology
+
+1. **Problem Scoping & Domain Understanding:** Deep dive into clinical, economic, or business logic to frame testable hypotheses.
+2. **Rigorous EDA & Data Sanity:** Audit survival biases, physiological plausibility, and outliers to guarantee dataset integrity.
+3. **Feature Engineering:** Apply mathematical transformations, domain-specific scaling, and encoding to maximize signal.
+4. **Model Benchmarking & Validation:** Evaluate models using class-appropriate metrics (ROC-AUC, Precision-Recall, F1-Score) with cross-validation.
+5. **Interactive Prototyping:** Deploy intuitive, production-ready Streamlit apps so end-users and stakeholders can explore predictions in real time.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anacolinaarismendi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacolinaarismendi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <em>Interested in collaborating or discussing an opportunity? Feel free to <a href="mailto:acolinaarismendi@gmail.com">reach out</a> or connect on <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">LinkedIn</a>!</em>
+</p>
