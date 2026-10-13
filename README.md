@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5CFF&width=550&lines=Data+Scientist;Machine+Learning+%7C+Healthcare+Analytics;Local+AI+%7C+Biomedical+RAG;Evidence-Based+Decision+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5CFF&width=500&lines=Data+Scientist;Machine+Learning+%7C+Healthcare+Analytics;Evidence-based+Decision+Making" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Ana Colina 👋
@@ -9,14 +9,14 @@
 </p>
 
 <p align="left">
-  I engineer end-to-end solutions that turn complex, high-dimensional data into <strong>actionable clinical and business intelligence</strong>. My work combines statistical rigor, predictive Machine Learning, and privacy-first local AI (RAG) with interactive web applications to empower evidence-based decision-making.
+  I develop end-to-end data solutions that turn complex, high-dimensional datasets into <strong>actionable clinical and business intelligence</strong>. My work combines statistical rigor, predictive Machine Learning, and privacy-first local AI (RAG) with interactive web applications to empower evidence-based decision-making.
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:acolinaarismendi@gmail.com">
+  <a href="mailto:acolinaarismendi@gmail.com?subject=Data%20Science%20Opportunity">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://anacolinaarismendi.github.io/ana.arismendi.github.io/">
@@ -64,11 +64,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anacolinaarismendi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacolinaarismendi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacolinaarismendi&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css,javascript" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Interested in collaborating or discussing an opportunity? Feel free to <a href="mailto:acolinaarismendi@gmail.com">reach out</a> or connect on <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">LinkedIn</a>!</em>
+  <em>Interested in collaborating or discussing an opportunity? Feel free to <a href="mailto:acolinaarismendi@gmail.com?subject=Data%20Science%20Opportunity">reach out</a> or connect on <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">LinkedIn</a>!</em>
 </p>
