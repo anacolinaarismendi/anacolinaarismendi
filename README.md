@@ -38,12 +38,3 @@
 3. **Feature Engineering:** Apply mathematical transformations, domain-specific scaling, and encoding to maximize signal.
 4. **Model Benchmarking & Validation:** Evaluate models using class-appropriate metrics (ROC-AUC, Precision-Recall, F1-Score) with cross-validation.
 5. **Interactive Prototyping:** Deploy intuitive, production-ready Streamlit apps so end-users and stakeholders can explore predictions in real time.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anacolinaarismendi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacolinaarismendi&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css,javascript" alt="Top Languages" width="48%" />
-</p>
