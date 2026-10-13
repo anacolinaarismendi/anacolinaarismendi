@@ -1,11 +1,7 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5CFF&width=500&lines=Data+Scientist;Machine+Learning+%7C+Healthcare+Analytics;Evidence-based+Decision+Making" alt="Typing SVG" />
-</p>
-
 # Hi, I'm Ana Colina 👋
 
 <p align="left">
-  <strong>Data Scientist | Machine Learning & Healthcare Analytics Specialist</strong>
+  <strong>📊Junior Data Analyst & Data Scientist | Healthcare & Pharma | Machine Learning</strong>
 </p>
 
 <p align="left">
@@ -35,21 +31,6 @@
 - **Databases & Storage:** PostgreSQL, SQLite, Vector Databases
 - **Developer Tools & Frameworks:** Git, GitHub, Jupyter Notebooks, VS Code, Next.js, Tailwind CSS
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description & Impact | Tech Stack | Link |
-|---|---|---|---|
-| **🫀 Cardiovascular Risk Prediction** | 10-year coronary risk prediction using the longitudinal *Framingham Heart Study* cohort (4,200+ patients). Hemodynamic biomarker modeling and interactive Streamlit clinical decision tool. | `Python` `Scikit-Learn` `Streamlit` `EDA` | [View Project](https://github.com/anacolinaarismendi/Cardiovascular-Disease) |
-| **🛡️ Safe AI — Clinical Decision Support** | Real-time clinical prescription auditor (CDSS) for high-risk polypharmacy and drug-drug interactions, leveraging OpenFDA adverse event data. | `Python` `Streamlit` `Next.js` `SQLite` `OpenFDA` | [View Project](https://github.com/anacolinaarismendi/Safe-AI) |
-| **🧠 CardioResearch — Biomedical RAG** | 100% local Conversational RAG pipeline querying PubMed cardiovascular literature with FAISS vector indexing and Ollama (Qwen 3.5 & Gemma) to prevent medical hallucinations. | `Python` `LangChain` `FAISS` `Ollama` `Streamlit` | [View Project](https://github.com/anacolinaarismendi/CardioResearch) |
-| **📈 Econometric & Causal Modeling** | Rigorous statistical modeling on time series and socioeconomic indicators, addressing endogeneity and instrument validity with an interactive dashboard. | `Python` `Statsmodels` `Streamlit` `Econometrics` | [View Project](https://github.com/anacolinaarismendi/Econometrics) |
-| **🍷 Wine Quality Studio** | End-to-end Machine Learning pipeline predicting expert organoleptic ratings from physicochemical features, featuring a real-time virtual sommelier simulator. | `Scikit-Learn` `Pandas` `Streamlit` `Plotly` | [View Project](https://github.com/anacolinaarismendi/Wine-Quality) |
-| **🎵 Spotify Audio DNA & Genre Classifier** | Multiclass music classification (86.2% accuracy) with acoustic feature extraction, Plotly polar radar charts, an embedded player, and a virtual DJ lab. | `Python` `Scikit-Learn` `Streamlit` `Plotly` | [View Project](https://github.com/anacolinaarismendi/spotify) |
-
----
-
 ## 🔬 Working Methodology
 
 1. **Problem Scoping & Domain Understanding:** Deep dive into clinical, economic, or business logic to frame testable hypotheses.
@@ -65,10 +46,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anacolinaarismendi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacolinaarismendi&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css,javascript" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <em>Interested in collaborating or discussing an opportunity? Feel free to <a href="mailto:acolinaarismendi@gmail.com?subject=Data%20Science%20Opportunity">reach out</a> or connect on <a href="https://www.linkedin.com/in/ana-colina-arismendi-24a27715a/">LinkedIn</a>!</em>
 </p>
