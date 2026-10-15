@@ -21,6 +21,15 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+| Project | Description & Impact | Tech Stack | Link |
+|---|---|---|---|
+| **🫀 Cardiovascular Risk Prediction** | 10-year coronary risk prediction using the longitudinal *Framingham Heart Study* cohort (4,200+ patients). Hemodynamic biomarker modeling and interactive Streamlit clinical decision tool. | `Python` `Scikit-Learn` `Streamlit` `EDA` | [View Project](https://github.com/anacolinaarismendi/Cardiovascular-Disease) |
+| **🛡️ Safe AI — Clinical Decision Support** | Real-time clinical prescription auditor (CDSS) for high-risk polypharmacy and drug-drug interactions, leveraging OpenFDA adverse event data. | `Python` `Streamlit` `Next.js` `SQLite` `OpenFDA` | [View Project](https://github.com/anacolinaarismendi/Safe-AI) |
+| **🧠 CardioResearch — Biomedical RAG** | 100% local Conversational RAG pipeline querying PubMed cardiovascular literature with FAISS vector indexing and Ollama (Qwen 3.5 & Gemma) to prevent medical hallucinations. | `Python` `LangChain` `FAISS` `Ollama` `Streamlit` | [View Project](https://github.com/anacolinaarismendi/CardioResearch) |
+| **📈 Econometric & Causal Modeling** | Statistical modeling on time series and socioeconomic indicators, instrument validity with an interactive dashboard. | `Python` `Statsmodels` `Streamlit` `Econometrics` | [View Project](https://github.com/anacolinaarismendi/Econometrics) |
+
+---
 
 ## 🛠️ Technical Stack & Tools
 
