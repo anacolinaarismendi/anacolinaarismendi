@@ -1,4 +1,4 @@
-# Hi, I'm Ana Colina 👋
+# Hi, I'm Ana 👋
 
 <p align="left">
   <strong>📊Junior Data Analyst & Data Scientist | Healthcare & Pharma | Machine Learning</strong>
